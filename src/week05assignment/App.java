@@ -6,12 +6,12 @@ public class App {
 		
 		Logger astLogger = new AsterickLogger();
 		
-		astLogger.log("Hello");
-		astLogger.error("Hello");
+		astLogger.log("hello");
+		astLogger.error("hello");
 		
 		Logger spaceLogger = new SpacedLogger ();
 		
-		spaceLogger.log("Hello");
+		spaceLogger.log("hello");
 	}
 
 }
