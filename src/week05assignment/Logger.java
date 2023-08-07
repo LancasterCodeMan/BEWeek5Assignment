@@ -2,7 +2,7 @@ package week05assignment;
 
 public interface Logger {
 	
-	public void log (String jlog);
-	public void error (String jlog);
+	public void log (String log);
+	public void error (String log);
 
 }
